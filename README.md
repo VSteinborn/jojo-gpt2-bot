@@ -4,9 +4,9 @@
 
 In this project I trained a quote generator using GPT2.
 
-This bot was made to be interfaced with an online chat so that people can use it to generate text in the style of lines from the animated Japanese telivision series "Jojo's Bizarre Adventure", known for its unique and over-the-top writing.
+This bot was made to be interfaced with an online chat so that people can use it to generate text in the style of lines from the animated Japanese television series "Jojo's Bizarre Adventure", known for its popular unique and over-the-top writing.
 
-This project was origionally completed on the 3rd of September 2022 (prior to the release of ChatGPT).
+This project was originally completed on the 3rd of September 2022 (prior to the release of ChatGPT).
 
 ## Training
 
